@@ -38,6 +38,14 @@ d & e & f \\
 g & h & i
 \end{bmatrix}
 \end{equation*} 
+\begin{equation*}
+B = 
+\begin{bmatrix}
+a & b & c \\
+d & e & f \\
+g & h & i
+\end{bmatrix}
+\end{equation*} 
 $$
 -
 $$
@@ -54,5 +62,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzgzNzI3NSwxODU3MjUzMjNdfQ==
+eyJoaXN0b3J5IjpbMzQzMDU2MTA1LC05NDc4MzcyNzUsMTg1Nz
+I1MzIzXX0=
 -->
