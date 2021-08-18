@@ -40,15 +40,13 @@ d & e & f \\
 g & h & i
 \end{bmatrix}
 \end{equation*} 
-
-\begin{equation*}
-B = 
-\begin{bmatrix}
-a & b & c \\
-d & e & f \\
-g & h & i
-\end{bmatrix}
-\end{equation*} 
+\begin{alignat*}{2}
+\begin{sysmatrix}{rrr|r}
+ 1 &  2 & 0 & 0 \\
+-1 &  1 & 2 & 0 \\
+ 1 &  0 & 1 & 5 \\
+ 0 & -2 & 1 & 4
+\end{sysmatrix}
 $$
 -
 $$
@@ -65,6 +63,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDg2MjAwMywtOTQ3ODM3Mjc1LDE4NT
-cyNTMyM119
+eyJoaXN0b3J5IjpbLTcwNTA4NzA0MSwxMTA0ODYyMDAzLC05ND
+c4MzcyNzUsMTg1NzI1MzIzXX0=
 -->
