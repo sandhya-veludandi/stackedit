@@ -77,14 +77,18 @@ $$
 $$
 -
 $$
-```
-
- ```
+\begin{equation}
+  \begin{bmatrix}@[ccc|c]
+   1 & 0 & 3 & -1 & 0 \\
+   0 & 1 & 1 & -1 & 0 \\
+   0 & 0 & 0 & 0 & 0 \\
+\end{bmatrix}
+\end{equation}
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzI1MjY0MSwxNDQwOTczNTQxLDE5OT
-c1MzUyMzYsLTE5ODUwMjY1MDYsMTEwNDg2MjAwMywtOTQ3ODM3
-Mjc1LDE4NTcyNTMyM119
+eyJoaXN0b3J5IjpbNTA1Mzg1NDU3LDE0NDA5NzM1NDEsMTk5Nz
+UzNTIzNiwtMTk4NTAyNjUwNiwxMTA0ODYyMDAzLC05NDc4Mzcy
+NzUsMTg1NzI1MzIzXX0=
 -->
