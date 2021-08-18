@@ -40,13 +40,6 @@ d & e & f \\
 g & h & i
 \end{bmatrix}
 \end{equation*} 
-\begin{alignat*}{2}
-\begin{sysmatrix}{rrr|r}
- 1 &  2 & 0 & 0 \\
--1 &  1 & 2 & 0 \\
- 1 &  0 & 1 & 5 \\
- 0 & -2 & 1 & 4
-\end{sysmatrix}
 $$
 -
 $$
@@ -59,10 +52,27 @@ $$
 \end{equation}
 $$
 -
-
+$$
+\[
+\left(\begin{array}{@{}ccc|c@{}}
+     1 &  2 & 0 & 0 \\
+    -1 &  1 & 2 & 0 \\
+     1 &  0 & 1 & 5 \\
+     0 & -2 & 1 & 4
+\end{array}\right)
+\sim
+\left(\begin{array}{@{}ccc|c@{}}
+    1 &  2 & 0 & 0 \\
+    0 &  3 & 2 & 0 \\
+    0 & -2 & 1 & 5 \\
+    0 & -2 & 1 & 4
+\end{array}\right)
+\]
+```
+$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTA4NzA0MSwxMTA0ODYyMDAzLC05ND
+eyJoaXN0b3J5IjpbMjE0MTE4ODkwMCwxMTA0ODYyMDAzLC05ND
 c4MzcyNzUsMTg1NzI1MzIzXX0=
 -->
