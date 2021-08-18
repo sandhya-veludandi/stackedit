@@ -76,20 +76,28 @@ $$
 \end{bmatrix} \underset{\overset{r_1-4r_2}{\longrightarrow}}{\overset{r_1+r_2}{\longrightarrow}}
 $$
 -
-```
-\[
-\begin{bmatrix}
-1 & 2 & 3 &\aug& 4 \\
-1 & 2 & 3 &\aug& 4 \\
-1 & 2 & 3 &\aug& 4 \\
-1 & 2 & 3 &\aug& 4
-\end{bmatrix}
-\]
-```
-
+$$
+\left[
+  \begin{matrix}
+    1 & 2 & 3 \\
+    1 & 2 & 3 \\
+    1 & 2 & 3 \\
+    1 & 2 & 3 \\
+  \end{matrix}
+  \left|
+    \,
+    \begin{matrix}
+      4  \\
+      4  \\
+      4  \\
+      4  \\
+    \end{matrix}
+  \right.
+\right]
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTIwMDc4MzMsMTQ0MDk3MzU0MSwxOT
-k3NTM1MjM2LC0xOTg1MDI2NTA2LDExMDQ4NjIwMDMsLTk0Nzgz
-NzI3NSwxODU3MjUzMjNdfQ==
+eyJoaXN0b3J5IjpbLTYzMDUzNTY5NywxNDQwOTczNTQxLDE5OT
+c1MzUyMzYsLTE5ODUwMjY1MDYsMTEwNDg2MjAwMywtOTQ3ODM3
+Mjc1LDE4NTcyNTMyM119
 -->
