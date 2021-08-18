@@ -20,52 +20,6 @@ g & h & i
 $$
 -
 $$
-\begin{equation*}
-A_{m,n} = 
-\begin{pmatrix}
-a_{1,1} & a_{1,2} & \cdots & a_{1,n} \\
-a_{2,1} & a_{2,2} & \cdots & a_{2,n} \\
-\vdots  & \vdots  & \ddots & \vdots  \\
-a_{m,1} & a_{m,2} & \cdots & a_{m,n} 
-\end{pmatrix}
-\end{equation*}
-$$
--
-$$
-\begin{equation}
-   \begin{vmatrix} 
-   a_{11} & a_{12} & a_{13}  \\
-   a_{21} & a_{22} & a_{23}  \\
-   a_{31} & a_{32} & a_{33}  \\
-   \end{vmatrix}
-\end{equation}
-$$
--
-$$
-\begin{bmatrix}
-    a  &  b      \\
-    c  &  d      
-\end{bmatrix} =
-\begin{bmatrix}
-    8  &  1      \\
-    7  &  6      
-\end{bmatrix}
-$$
--
-$$
-\begin{bmatrix}
-3 &  3& 3\\ 
- 3&  3& 3\\ 
- 3&  3& 3
-\end{bmatrix} \overset{r_1+r_2}{\longrightarrow} 
-\begin{bmatrix}
-3 &  3& 3\\ 
- 3&  3& 3\\ 
- 3&  3& 3
-\end{bmatrix} \underset{\overset{r_1-4r_2}{\longrightarrow}}{\overset{r_1+r_2}{\longrightarrow}}
-$$
--
-$$
 \left[
   \begin{matrix}
     1 & 2 & 3 \\
@@ -103,10 +57,46 @@ $$
 \right]
 $$
 -
+$$
+\begin{bmatrix}
+3 &  3& 3\\ 
+ 3&  3& 3\\ 
+ 3&  3& 3
+\end{bmatrix} \overset{r_1+r_2}{\longrightarrow} 
+\begin{bmatrix}
+3 &  3& 3\\ 
+ 3&  3& 3\\ 
+ 3&  3& 3
+\end{bmatrix} \underset{\overset{r_1-4r_2}{\longrightarrow}}{\overset{r_1+r_2}{\longrightarrow}}
+$$
+-
+
+$$
+\begin{equation*}
+A_{m,n} = 
+\begin{pmatrix}
+a_{1,1} & a_{1,2} & \cdots & a_{1,n} \\
+a_{2,1} & a_{2,2} & \cdots & a_{2,n} \\
+\vdots  & \vdots  & \ddots & \vdots  \\
+a_{m,1} & a_{m,2} & \cdots & a_{m,n} 
+\end{pmatrix}
+\end{equation*}
+$$
+-
+$$
+\begin{equation}
+   \begin{vmatrix} 
+   a_{11} & a_{12} & a_{13}  \\
+   a_{21} & a_{22} & a_{23}  \\
+   a_{31} & a_{32} & a_{33}  \\
+   \end{vmatrix}
+\end{equation}
+$$
+-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU3NDE2MDksLTEzODI4Njc0NTUsLT
-ExMjQ3NDcyNzUsMTQ0MDk3MzU0MSwxOTk3NTM1MjM2LC0xOTg1
-MDI2NTA2LDExMDQ4NjIwMDMsLTk0NzgzNzI3NSwxODU3MjUzMj
-NdfQ==
+eyJoaXN0b3J5IjpbMTM0NzY1MjM1LC0xMzgyODY3NDU1LC0xMT
+I0NzQ3Mjc1LDE0NDA5NzM1NDEsMTk5NzUzNTIzNiwtMTk4NTAy
+NjUwNiwxMTA0ODYyMDAzLC05NDc4MzcyNzUsMTg1NzI1MzIzXX
+0=
 -->
