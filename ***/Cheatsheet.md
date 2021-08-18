@@ -94,9 +94,17 @@ $$
   \right.
 \right]
 $$
-
+-
+$$
+\begin{alignat*}{4}[left = 
+   2x & {}+{} &  y & {}+{} & 3z & {}={} & 10 \\
+    x & {}+{} &  y & {}+{} &  z & {}={} &  6\phantom{0} \\ % <-- note "\phantom{0}"
+    x & {}+{} & 3y & {}+{} & 2z & {}={} & 13
+\end{alignat*}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI4Njc0NTUsLTExMjQ3NDcyNzUsMT
-Q0MDk3MzU0MSwxOTk3NTM1MjM2LC0xOTg1MDI2NTA2LDExMDQ4
-NjIwMDMsLTk0NzgzNzI3NSwxODU3MjUzMjNdfQ==
+eyJoaXN0b3J5IjpbLTEzNjA3NzY2NTksLTEzODI4Njc0NTUsLT
+ExMjQ3NDcyNzUsMTQ0MDk3MzU0MSwxOTk3NTM1MjM2LC0xOTg1
+MDI2NTA2LDExMDQ4NjIwMDMsLTk0NzgzNzI3NSwxODU3MjUzMj
+NdfQ==
 -->
