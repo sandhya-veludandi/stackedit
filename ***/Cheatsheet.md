@@ -102,22 +102,20 @@ $$
     1 & 2 & 3 \\
     1 & 2 & 3 \\
     1 & 2 & 3 \\
-    1 & 2 & 3 \\
   \end{matrix}
   \left|
     \,
     \begin{matrix}
-      4  \\
-      4  \\
-      4  \\
-      4  \\
+     1 & 0 & 0 \\
+     0 & 1 & 0 \\
+     0 & 0 & 1 \\
     \end{matrix}
   \right.
 \right]
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDEzNTc4NiwxNDQwOTczNTQxLDE5OT
-c1MzUyMzYsLTE5ODUwMjY1MDYsMTEwNDg2MjAwMywtOTQ3ODM3
-Mjc1LDE4NTcyNTMyM119
+eyJoaXN0b3J5IjpbLTExMjQ3NDcyNzUsMTQ0MDk3MzU0MSwxOT
+k3NTM1MjM2LC0xOTg1MDI2NTA2LDExMDQ4NjIwMDMsLTk0Nzgz
+NzI3NSwxODU3MjUzMjNdfQ==
 -->
