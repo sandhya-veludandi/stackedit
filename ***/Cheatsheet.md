@@ -76,19 +76,20 @@ $$
 \end{bmatrix} \underset{\overset{r_1-4r_2}{\longrightarrow}}{\overset{r_1+r_2}{\longrightarrow}}
 $$
 -
-$$
-\begin{equation}
-  \begin{bmatrix}@[ccc|c]
-   1 & 0 & 3 & -1 & 0 \\
-   0 & 1 & 1 & -1 & 0 \\
-   0 & 0 & 0 & 0 & 0 \\
+```
+\[
+\begin{bmatrix}
+1 & 2 & 3 &\aug& 4 \\
+1 & 2 & 3 &\aug& 4 \\
+1 & 2 & 3 &\aug& 4 \\
+1 & 2 & 3 &\aug& 4
 \end{bmatrix}
-\end{equation}
-$$
+\]
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1Mzg1NDU3LDE0NDA5NzM1NDEsMTk5Nz
-UzNTIzNiwtMTk4NTAyNjUwNiwxMTA0ODYyMDAzLC05NDc4Mzcy
-NzUsMTg1NzI1MzIzXX0=
+eyJoaXN0b3J5IjpbLTIwOTIwMDc4MzMsMTQ0MDk3MzU0MSwxOT
+k3NTM1MjM2LC0xOTg1MDI2NTA2LDExMDQ4NjIwMDMsLTk0Nzgz
+NzI3NSwxODU3MjUzMjNdfQ==
 -->
