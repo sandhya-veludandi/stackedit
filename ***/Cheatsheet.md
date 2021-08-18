@@ -40,6 +40,7 @@ d & e & f \\
 g & h & i
 \end{bmatrix}
 \end{equation*} 
+
 \begin{equation*}
 B = 
 \begin{bmatrix}
@@ -64,6 +65,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDM4NjE4MTksLTk0NzgzNzI3NSwxOD
-U3MjUzMjNdfQ==
+eyJoaXN0b3J5IjpbMTEwNDg2MjAwMywtOTQ3ODM3Mjc1LDE4NT
+cyNTMyM119
 -->
