@@ -77,17 +77,11 @@ $$
 $$
 -
 $$
-\begin{alignat*}{2}
-\begin{sysmatrix}{rrr|r}
- 1 &  2 & 0 & 0 \\
--1 &  1 & 2 & 0 \\
- 1 &  0 & 1 & 5 \\
- 0 & -2 & 1 & 4
-\end{sysmatrix}
+
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDQ4MDk0OSwtMTk4NTAyNjUwNiwxMT
+eyJoaXN0b3J5IjpbMTQ0MDk3MzU0MSwtMTk4NTAyNjUwNiwxMT
 A0ODYyMDAzLC05NDc4MzcyNzUsMTg1NzI1MzIzXX0=
 -->
