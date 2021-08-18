@@ -1,23 +1,4 @@
-## Cheatsheet
-
-## Save a file
-
-Save to **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. 
-
-
-## KaTeX
-
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
-
-## Matrices
+## Matrices Cheatsheet
 
 $$
 \begin{equation*}
@@ -115,7 +96,7 @@ $$
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ3NDcyNzUsMTQ0MDk3MzU0MSwxOT
-k3NTM1MjM2LC0xOTg1MDI2NTA2LDExMDQ4NjIwMDMsLTk0Nzgz
-NzI3NSwxODU3MjUzMjNdfQ==
+eyJoaXN0b3J5IjpbLTEzODI4Njc0NTUsLTExMjQ3NDcyNzUsMT
+Q0MDk3MzU0MSwxOTk3NTM1MjM2LC0xOTg1MDI2NTA2LDExMDQ4
+NjIwMDMsLTk0NzgzNzI3NSwxODU3MjUzMjNdfQ==
 -->
