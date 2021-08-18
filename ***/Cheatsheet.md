@@ -37,7 +37,7 @@ a & b & c \\
 d & e & f \\
 g & h & i
 \end{bmatrix}
-\end{equation*}
+\end{equation*} 
 $$
 -
 $$
@@ -54,5 +54,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzI1MzIzXX0=
+eyJoaXN0b3J5IjpbLTk0NzgzNzI3NSwxODU3MjUzMjNdfQ==
 -->
