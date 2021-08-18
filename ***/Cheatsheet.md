@@ -3,7 +3,7 @@
 $$
 \begin{alignat*}{4}
    2x & {}+{} &  y & {}+{} & 3z & {}={} & 10 \\
-    x & {}+{} &  y & {}+{} &  z & {}={} &  6\phantom{0} \\ % <-- note "\phantom{0}"
+    x & {}+{} &  y & {}+{} &  z & {}={} &  6 \\
     x & {}+{} & 3y & {}+{} & 2z & {}={} & 13
 \end{alignat*}
 $$
@@ -95,7 +95,7 @@ $$
 -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTU2NjAzLC0xMzgyODY3NDU1LC0xMT
+eyJoaXN0b3J5IjpbNDcxNzc1MzkyLC0xMzgyODY3NDU1LC0xMT
 I0NzQ3Mjc1LDE0NDA5NzM1NDEsMTk5NzUzNTIzNiwtMTk4NTAy
 NjUwNiwxMTA0ODYyMDAzLC05NDc4MzcyNzUsMTg1NzI1MzIzXX
 0=
