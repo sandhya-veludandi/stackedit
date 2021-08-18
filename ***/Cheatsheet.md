@@ -68,9 +68,7 @@ $$
 3 &  3& 3\\ 
  3&  3& 3\\ 
  3&  3& 3
-\end{bmatrix} 
-\overset{r_1+r_2}
-{\longrightarrow} 
+\end{bmatrix} \overset{r_1+r_2}{\longrightarrow} 
 \begin{bmatrix}
 3 &  3& 3\\ 
  3&  3& 3\\ 
@@ -80,6 +78,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ3OTA1MTAsMTEwNDg2MjAwMywtOT
+eyJoaXN0b3J5IjpbLTE5ODUwMjY1MDYsMTEwNDg2MjAwMywtOT
 Q3ODM3Mjc1LDE4NTcyNTMyM119
 -->
