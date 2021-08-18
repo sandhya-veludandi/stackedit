@@ -77,18 +77,12 @@ $$
 $$
 -
 $$
-\begin{equation}
-  \begin{bmatrix}[cccc|c]
-   1 & 0 & 3 & -1 & 0 \\
-   0 & 1 & 1 & -1 & 0 \\
-   0 & 0 & 0 & 0 & 0 \\
-\end{bmatrix}
-\end{equation}
+
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzUzNTIzNiwxNDQwOTczNTQxLC0xOT
-g1MDI2NTA2LDExMDQ4NjIwMDMsLTk0NzgzNzI3NSwxODU3MjUz
-MjNdfQ==
+eyJoaXN0b3J5IjpbMTQ0MDk3MzU0MSwxOTk3NTM1MjM2LDE0ND
+A5NzM1NDEsLTE5ODUwMjY1MDYsMTEwNDg2MjAwMywtOTQ3ODM3
+Mjc1LDE4NTcyNTMyM119
 -->
