@@ -1,15 +1,11 @@
 ## Matrices Cheatsheet
 
 $$
-\begin{equation*}
-A_{m,n} = 
-\begin{pmatrix}
-a_{1,1} & a_{1,2} & \cdots & a_{1,n} \\
-a_{2,1} & a_{2,2} & \cdots & a_{2,n} \\
-\vdots  & \vdots  & \ddots & \vdots  \\
-a_{m,1} & a_{m,2} & \cdots & a_{m,n} 
-\end{pmatrix}
-\end{equation*}
+\begin{alignat*}{4}
+   2x & {}+{} &  y & {}+{} & 3z & {}={} & 10 \\
+    x & {}+{} &  y & {}+{} &  z & {}={} &  6\phantom{0} \\ % <-- note "\phantom{0}"
+    x & {}+{} & 3y & {}+{} & 2z & {}={} & 13
+\end{alignat*}
 $$
 -
 $$
@@ -21,6 +17,18 @@ d & e & f \\
 g & h & i
 \end{bmatrix}
 \end{equation*} 
+$$
+-
+$$
+\begin{equation*}
+A_{m,n} = 
+\begin{pmatrix}
+a_{1,1} & a_{1,2} & \cdots & a_{1,n} \\
+a_{2,1} & a_{2,2} & \cdots & a_{2,n} \\
+\vdots  & \vdots  & \ddots & \vdots  \\
+a_{m,1} & a_{m,2} & \cdots & a_{m,n} 
+\end{pmatrix}
+\end{equation*}
 $$
 -
 $$
@@ -95,15 +103,9 @@ $$
 \right]
 $$
 -
-$$
-\begin{alignat*}{4}[left = 
-   2x & {}+{} &  y & {}+{} & 3z & {}={} & 10 \\
-    x & {}+{} &  y & {}+{} &  z & {}={} &  6\phantom{0} \\ % <-- note "\phantom{0}"
-    x & {}+{} & 3y & {}+{} & 2z & {}={} & 13
-\end{alignat*}
-$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjA3NzY2NTksLTEzODI4Njc0NTUsLT
+eyJoaXN0b3J5IjpbLTE0NzU3NDE2MDksLTEzODI4Njc0NTUsLT
 ExMjQ3NDcyNzUsMTQ0MDk3MzU0MSwxOTk3NTM1MjM2LC0xOTg1
 MDI2NTA2LDExMDQ4NjIwMDMsLTk0NzgzNzI3NSwxODU3MjUzMj
 NdfQ==
