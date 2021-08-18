@@ -1,6 +1,7 @@
 ## Cheatsheet
 
 ## Save a file
+
 Save to **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. 
 
 
@@ -17,6 +18,7 @@ $$
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 
 ## Matrices
+
 $$
 \begin{equation*}
 A_{m,n} = 
@@ -62,6 +64,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzMDU2MTA1LC05NDc4MzcyNzUsMTg1Nz
-I1MzIzXX0=
+eyJoaXN0b3J5IjpbLTIxNDM4NjE4MTksLTk0NzgzNzI3NSwxOD
+U3MjUzMjNdfQ==
 -->
