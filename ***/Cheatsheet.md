@@ -64,11 +64,20 @@ $$
 $$
 -
 $$
-
+\begin{bmatrix}
+3 &  3& 3\\ 
+ 3&  3& 3\\ 
+ 3&  3& 3
+\end{bmatrix} \overset{r_1+r_2}{\longrightarrow} 
+\begin{pmatrix}
+3 &  3& 3\\ 
+ 3&  3& 3\\ 
+ 3&  3& 3
+\end{pmatrix} \underset{\overset{r_1-4r_2}{\longrightarrow}}{\overset{r_1+r_2}{\longrightarrow}}
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDYyNTg1MSwxMTA0ODYyMDAzLC05ND
+eyJoaXN0b3J5IjpbLTU1OTgzMTY5MCwxMTA0ODYyMDAzLC05ND
 c4MzcyNzUsMTg1NzI1MzIzXX0=
 -->
