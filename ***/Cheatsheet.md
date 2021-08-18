@@ -53,21 +53,22 @@ $$
 $$
 -
 $$
-\[
 \begin{bmatrix}
     a  &  b      \\
     c  &  d      
-\end{bmatrix}
-= 
+\end{bmatrix} =
 \begin{bmatrix}
     8  &  1      \\
     7  &  6      
-\end{bmatrix} 
-\]
+\end{bmatrix}
+$$
+-
+$$
+
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTc1OTc2NCwxMTA0ODYyMDAzLC05ND
+eyJoaXN0b3J5IjpbLTkzMDYyNTg1MSwxMTA0ODYyMDAzLC05ND
 c4MzcyNzUsMTg1NzI1MzIzXX0=
 -->
