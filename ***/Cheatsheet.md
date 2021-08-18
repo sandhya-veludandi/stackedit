@@ -1,4 +1,4 @@
-## Matrices Cheatsheet
+## Matrices Latex Cheatsheet
 
 $$
 \begin{alignat*}{4}
@@ -95,7 +95,7 @@ $$
 -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzY1MjM1LC0xMzgyODY3NDU1LC0xMT
+eyJoaXN0b3J5IjpbLTk1MTU2NjAzLC0xMzgyODY3NDU1LC0xMT
 I0NzQ3Mjc1LDE0NDA5NzM1NDEsMTk5NzUzNTIzNiwtMTk4NTAy
 NjUwNiwxMTA0ODYyMDAzLC05NDc4MzcyNzUsMTg1NzI1MzIzXX
 0=
