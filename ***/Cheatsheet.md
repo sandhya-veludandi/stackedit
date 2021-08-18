@@ -77,14 +77,14 @@ $$
 $$
 -
 $$
-\begin{bmatrix}
-   1 & 2 & 3 \\  a & b & c
- \end{matrix}
+```
+
+ ```
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTA3MzIzLDE0NDA5NzM1NDEsMTk5Nz
-UzNTIzNiwtMTk4NTAyNjUwNiwxMTA0ODYyMDAzLC05NDc4Mzcy
-NzUsMTg1NzI1MzIzXX0=
+eyJoaXN0b3J5IjpbLTMwNzI1MjY0MSwxNDQwOTczNTQxLDE5OT
+c1MzUyMzYsLTE5ODUwMjY1MDYsMTEwNDg2MjAwMywtOTQ3ODM3
+Mjc1LDE4NTcyNTMyM119
 -->
