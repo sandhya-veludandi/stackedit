@@ -68,16 +68,18 @@ $$
 3 &  3& 3\\ 
  3&  3& 3\\ 
  3&  3& 3
-\end{bmatrix} \overset{r_1+r_2}{\longrightarrow} 
-\begin{pmatrix}
+\end{bmatrix} 
+\overset{r_1+r_2}
+{\longrightarrow} 
+\begin{bmatrix}
 3 &  3& 3\\ 
  3&  3& 3\\ 
  3&  3& 3
-\end{pmatrix} \underset{\overset{r_1-4r_2}{\longrightarrow}}{\overset{r_1+r_2}{\longrightarrow}}
+\end{bmatrix} \underset{\overset{r_1-4r_2}{\longrightarrow}}{\overset{r_1+r_2}{\longrightarrow}}
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTgzMTY5MCwxMTA0ODYyMDAzLC05ND
-c4MzcyNzUsMTg1NzI1MzIzXX0=
+eyJoaXN0b3J5IjpbLTE3MTQ3OTA1MTAsMTEwNDg2MjAwMywtOT
+Q3ODM3Mjc1LDE4NTcyNTMyM119
 -->
