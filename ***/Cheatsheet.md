@@ -52,21 +52,22 @@ $$
 \end{equation}
 $$
 -
-```
-\[ \left( \begin{array}{cc}
-1 & 0 \\
-0 & 1
-\end{array} \right)
-%
-\left( \begin{array}{cc}
-1 & 0 \\
-0 & 1
-\end{array} \right)
+$$
+\[
+\begin{bmatrix}
+    a  &  b      \\
+    c  &  d      
+\end{bmatrix}
+= 
+\begin{bmatrix}
+    8  &  1      \\
+    7  &  6      
+\end{bmatrix} 
 \]
-
+$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTQ0ODQ4NCwxMTA0ODYyMDAzLC05ND
+eyJoaXN0b3J5IjpbMTQwNTc1OTc2NCwxMTA0ODYyMDAzLC05ND
 c4MzcyNzUsMTg1NzI1MzIzXX0=
 -->
