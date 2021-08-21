@@ -7,7 +7,6 @@ $$
     x & {}+{} & 3y & {}+{} & 2z & {}={} & 13
 \end{alignat*}
 $$
--
 $$
 \begin{equation*}
 B = 
@@ -38,7 +37,6 @@ $$
   \right.
 \right]
 $$
--
 $$
 \left[
   \begin{matrix}
@@ -95,5 +93,5 @@ $$
 -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxNzc1MzkyXX0=
+eyJoaXN0b3J5IjpbMTgzMzk5NDUxNCw0NzE3NzUzOTJdfQ==
 -->
