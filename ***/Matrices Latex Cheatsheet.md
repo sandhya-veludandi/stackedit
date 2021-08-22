@@ -1,4 +1,4 @@
-## Matrices Latex Cheatsheet
+## Matrices Latex Cheatshee
 
 $$
 \begin{aligned}
@@ -86,5 +86,5 @@ a_{31} & a_{32} & a_{33} \\
 \end{vmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDY2MjYyOV19
+eyJoaXN0b3J5IjpbNjAyMDY3OTg3LC05MzA2NjI2MjldfQ==
 -->
