@@ -1,6 +1,5 @@
 ## Matrices Latex Cheatsheet
 
-
 $$
 \begin{aligned}
 2x & {}+{} & y & {}+{} & 3z & {}={} & 10 \\
@@ -8,14 +7,16 @@ x & {}+{} & y & {}+{} & z & {}={} & 6 \\
 x & {}+{} & 3y & {}+{} & 2z & {}={} & 13
 \end{aligned}
 $$
+---
 $$
 B =
 \begin{bmatrix}
 a & b & c \\
 d & e & f \\
-g & h & 
+g & h & i
 \end{bmatrix}
 $$
+---
 $$
 \left[
 \begin{matrix}
@@ -35,33 +36,19 @@ $$
 \right.
 \right]
 $$
-
-  
-
+---
 $$
-
 \left[
-
 \begin{matrix}
-
 1 & 2 & 3 \\
-
 1 & 2 & 3 \\
-
 1 & 2 & 3 \\
-
 \end{matrix}
-
 \left|
-
 \,
-
 \begin{matrix}
-
 1 & 0 & 0 \\
-
 0 & 1 & 0 \\
-
 0 & 0 & 1 \\
 
 \end{matrix}
@@ -72,7 +59,7 @@ $$
 
 $$
 
-  
+---
 
 $$
 
@@ -98,7 +85,7 @@ $$
 
 $$
 
-  
+---
 
 $$
 
@@ -118,7 +105,7 @@ a_{m,1} & a_{m,2} & \cdots & a_{m,n}
 
 $$
 
-  
+---
 
 $$
 
@@ -134,6 +121,6 @@ a_{31} & a_{32} & a_{33} \\
 
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzIxMjcyMCw0NzE3NzUzOTIsMTgzMz
-k5NDUxNCw0NzE3NzUzOTJdfQ==
+eyJoaXN0b3J5IjpbMTc1NDA2NDA1MywxMDEzMjEyNzIwLDQ3MT
+c3NTM5MiwxODMzOTk0NTE0LDQ3MTc3NTM5Ml19
 -->
