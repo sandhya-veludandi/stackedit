@@ -86,6 +86,5 @@ a_{31} & a_{32} & a_{33} \\
 \end{vmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDY2MjYyOSwxMDEzMjEyNzIwLDQ3MT
-c3NTM5MiwxODMzOTk0NTE0LDQ3MTc3NTM5Ml19
+eyJoaXN0b3J5IjpbLTkzMDY2MjYyOV19
 -->
